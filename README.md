@@ -1,2 +1,4 @@
-# weather_app
+# Weather_app
 Get current weather information of cities in the world using tkinter
+## Features 
+## Installation
