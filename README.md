@@ -4,7 +4,7 @@
  - Information of sunrise and sunset times
  - Show information if user input incorrect country name
  - Weather description 
- - included timer
+ - Included timer
 
 ## Usage 
  - It is need to [SIGN UP](https://home.openweathermap.org/users/sign_up) before using weather API for free 
